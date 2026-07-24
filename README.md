@@ -7,8 +7,8 @@
 
 ## About Me
 
--  Currently learning Python, Java, MATLAB and Git
--  Interested in AI, Software Development and Control Systems
+-  Currently learning Python, AI tools and GITHUB 
+-  Interested in AI, Software Development and techinacal 
 -  Building projects to strengthen my development skills
 -  Goal: Become a Software Engineer and AI Developer
 
@@ -17,9 +17,6 @@
 ##  Tech Stack
 
 - Python
-- Java
-- C
-- MATLAB
 - Git & GitHub
 - HTML & CSS
 
