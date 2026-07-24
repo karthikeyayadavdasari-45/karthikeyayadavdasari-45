@@ -18,9 +18,6 @@
 - Python
 - Git & GitHub
 - HTML & CSS
-##  Contribution Graph
-
-[![Karthikeya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=karthikeyayadavdasari-45&theme=github-compact)](https://github.com/karthikeyayadavdasari-45)
 
 ##  Featured Projects
 
@@ -37,3 +34,7 @@
 -  Grow as a developer
 
 ### Thanks for visiting my profile! 
+
+##  Contribution Graph
+
+[![Karthikeya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=karthikeyayadavdasari-45&theme=github-compact)](https://github.com/karthikeyayadavdasari-45)
