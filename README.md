@@ -8,10 +8,10 @@
 
 ## About Me
 
--  Currently learning Python, AI tools and GITHUB 
--  Interested in AI, Software Development and techinacal 
+-  Currently learning Python, AI tools and GITHUB and solving DSA programs 
+-  Interested in AI, Software Development and techinacal manner  
 -  Building projects to strengthen my development skills
--  Goal: Become a Software Engineer and AI Developer
+-  Goal: Become a Software Engineer and AI Developer and Quantum basics perfect 
 
 ##  Tech Stack
 
