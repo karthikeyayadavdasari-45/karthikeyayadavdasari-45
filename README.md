@@ -18,20 +18,13 @@
 - Python
 - Git & GitHub
 - HTML & CSS
-
-##  Featured Projects
-
--  Stock Market Order Book Simulator
--  Python Journey
--  UI/UX Design
--  More exciting projects coming soon...
-
+  
 ## 📈 GitHub Goals
 
 -  Learn Data Structures & Algorithms
 -  Build real-world projects
 -  Contribute consistently
--  Grow as a developer
+-  Continuously Learn New Technologies
 
 ### Thanks for visiting my profile! 
 
